@@ -123,4 +123,16 @@ return [
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
 
+    /*
+    |--------------------------------------------------------------------------
+    | Demo Admin Password
+    |--------------------------------------------------------------------------
+    |
+    | Password assigned to the seeded admin@example.com account. Override via
+    | DEMO_ADMIN_PASSWORD on hosted demos; defaults to "password" locally.
+    |
+    */
+
+    'demo_admin_password' => env('DEMO_ADMIN_PASSWORD'),
+
 ];

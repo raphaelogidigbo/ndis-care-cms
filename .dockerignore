@@ -1,0 +1,15 @@
+.git
+.github
+.vscode
+.idea
+node_modules
+vendor
+tests
+docs
+storage/logs
+database/*.sqlite
+.env
+.env.*
+!.env.example
+*.md
+!README.md

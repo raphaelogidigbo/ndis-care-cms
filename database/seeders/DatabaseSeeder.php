@@ -6,6 +6,7 @@ use App\Enums\UserRole;
 use App\Models\User;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\Hash;
 
 class DatabaseSeeder extends Seeder
 {
@@ -20,6 +21,7 @@ class DatabaseSeeder extends Seeder
             'name' => 'Harbourview Admin',
             'email' => 'admin@example.com',
             'role' => UserRole::Admin,
+            'password' => Hash::make(config('app.demo_admin_password') ?: 'password'),
         ]);
 
         $this->call([
