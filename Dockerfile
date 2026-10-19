@@ -14,14 +14,13 @@ FROM php-base AS vendor
 COPY . .
 RUN composer install --no-dev --no-interaction --prefer-dist --optimize-autoloader
 
-# Stage 2: frontend assets (vendor needed — filament theme.css imports from it)
+# Stage 2: frontend assets (full source — Tailwind @source scans views,
+# app/Filament and seed data; vendor needed for the filament theme import)
 FROM node:22-alpine AS assets
 WORKDIR /build
 COPY package.json package-lock.json ./
 RUN npm ci --ignore-scripts
-COPY vite.config.js ./
-COPY resources/css ./resources/css
-COPY resources/js ./resources/js
+COPY . .
 COPY --from=vendor /var/www/html/vendor ./vendor
 RUN npm run build
 
