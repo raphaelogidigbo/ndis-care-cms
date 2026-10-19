@@ -17,11 +17,12 @@ class DatabaseSeeder extends Seeder
      */
     public function run(): void
     {
-        User::factory()->create([
+        User::create([
             'name' => 'Harbourview Admin',
             'email' => 'admin@example.com',
             'role' => UserRole::Admin,
             'password' => Hash::make(config('app.demo_admin_password') ?: 'password'),
+            'email_verified_at' => now(),
         ]);
 
         $this->call([
