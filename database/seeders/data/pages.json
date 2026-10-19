@@ -1,0 +1,254 @@
+[
+    {
+        "wp_id": 0,
+        "slug": "home",
+        "title": "Home",
+        "menu_order": 0,
+        "meta": {
+            "title": "Home | Harbourview Care Services",
+            "description": "Registered NDIS provider in Melbourne — Harbourview Care Services is a registered NDIS provider delivering person-centred supports across Melbourne.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">Support that fits your life.</h2><p class=\"common_paragraph\">Harbourview Care Services provides NDIS supports built around your goals, your routine and your community.</p><p class=\"common_paragraph\">From daily living assistance to community participation, we tailor every plan to the person behind it.</p></div></div></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "about-us",
+        "title": "About Us",
+        "menu_order": 0,
+        "meta": {
+            "title": "About Us | Harbourview Care Services",
+            "description": "Meet the team behind Harbourview Care Services — values, approach and people.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">About Harbourview Care Services</h2><p class=\"common_paragraph\">Harbourview Care Services is a registered NDIS provider delivering person-centred supports across Melbourne.</p><p class=\"common_paragraph\">Our team of support workers, nurses and coordinators share one goal: support that feels like family.</p></div></div></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "services",
+        "title": "Our Services",
+        "menu_order": 0,
+        "meta": {
+            "title": "Our Services | Harbourview Care Services",
+            "description": "Explore our NDIS support services.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">NDIS Services</h2><p class=\"common_paragraph\">We offer daily living support, community participation, nursing care, life skills and more across Melbourne.</p><p class=\"common_paragraph\">Every service starts with a conversation about what matters to you.</p></div></div></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "why-us",
+        "title": "Why Choose Us",
+        "menu_order": 0,
+        "meta": {
+            "title": "Why Choose Us | Harbourview Care Services",
+            "description": "What makes our support different.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">Why families choose us</h2><p class=\"common_paragraph\">Consistent workers, honest communication and support plans that actually fit your life.</p><p class=\"common_paragraph\">We measure ourselves against one question: would we want this for our own family?</p></div></div></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "referrals",
+        "title": "Make a Referral",
+        "menu_order": 0,
+        "meta": {
+            "title": "Make a Referral | Harbourview Care Services",
+            "description": "Refer a participant to our services.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">Refer a participant</h2><p class=\"common_paragraph\">Support coordinators, families and health professionals — refer someone and we'll respond within one business day.</p></div></div></div><div class=\"inner_section py-4 py-sm-5 sec_bg_color\"><div class=\"container\"><div class=\"inner_text_sec\"><h2 class=\"inner_bg_title mb-3\">Referral form</h2><p class=\"common_paragraph\">Tell us about the participant and their goals.</p></div></div></div><div class=\"wpcf7\"><p>form placeholder</p></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "ndis",
+        "title": "Understanding the NDIS",
+        "menu_order": 0,
+        "meta": {
+            "title": "Understanding the NDIS | Harbourview Care Services",
+            "description": "Plain-language guide to the NDIS.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">What is the NDIS?</h2><p class=\"common_paragraph\">The NDIS funds reasonable and necessary supports for eligible Australians with disability.</p><p class=\"common_paragraph\">We can help you understand your plan, your budgets and your options.</p></div></div></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "resources",
+        "title": "Resources",
+        "menu_order": 0,
+        "meta": {
+            "title": "Resources | Harbourview Care Services",
+            "description": "NDIS resources and links.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">Helpful resources</h2><p class=\"common_paragraph\">Guides and links for participants, families and support coordinators.</p><p class=\"common_paragraph\">From plan reviews to carer supports — the essentials in one place.</p></div></div></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "faq",
+        "title": "Frequently Asked Questions",
+        "menu_order": 0,
+        "meta": {
+            "title": "Frequently Asked Questions | Harbourview Care Services",
+            "description": "Common questions about our services and the NDIS.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"accordion\" id=\"faqAccordion\"><div class=\"accordion-item\"><h2 class=\"accordion-header\"><button class=\"accordion-button\" type=\"button\">What is the NDIS?</button></h2><div class=\"accordion-collapse collapse show\"><div class=\"accordion-body\"><p>The NDIS is Australia's national scheme funding disability supports for eligible participants.</p></div></div></div><div class=\"accordion-item\"><h2 class=\"accordion-header\"><button class=\"accordion-button\" type=\"button\">How do I get started?</button></h2><div class=\"accordion-collapse collapse\"><div class=\"accordion-body\"><p>Contact us for a chat about your plan and goals — we'll walk you through the next steps.</p></div></div></div><div class=\"accordion-item\"><h2 class=\"accordion-header\"><button class=\"accordion-button\" type=\"button\">Which areas do you cover?</button></h2><div class=\"accordion-collapse collapse\"><div class=\"accordion-body\"><p>We support participants across greater Melbourne.</p></div></div></div></div></div></div></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "careers",
+        "title": "Careers",
+        "menu_order": 0,
+        "meta": {
+            "title": "Careers | Harbourview Care Services",
+            "description": "Join our team as a support worker.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">Work with Harbourview Care Services</h2><p class=\"common_paragraph\">Looking for meaningful work? We're always keen to meet great support workers.</p><p class=\"common_paragraph\">Flexible rosters, real training, and a team that backs you.</p></div></div></div><div class=\"inner_section py-4 py-sm-5 sec_bg_color\"><div class=\"container\"><div class=\"inner_text_sec\"><h2 class=\"inner_bg_title mb-3\">Apply now</h2><p class=\"common_paragraph\">Send us your details and we'll be in touch.</p></div></div></div><div class=\"wpcf7\"><p>form placeholder</p></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "feedback",
+        "title": "Feedback",
+        "menu_order": 0,
+        "meta": {
+            "title": "Feedback | Harbourview Care Services",
+            "description": "Share feedback or make a complaint.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">Tell us how we're doing</h2><p class=\"common_paragraph\">Compliments, complaints and suggestions — we read them all and act on them.</p></div></div></div><div class=\"inner_section py-4 py-sm-5 sec_bg_color\"><div class=\"container\"><div class=\"inner_text_sec\"><h2 class=\"inner_bg_title mb-3\">Share feedback</h2><p class=\"common_paragraph\">Your feedback shapes our service.</p></div></div></div><div class=\"wpcf7\"><p>form placeholder</p></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "contact-us",
+        "title": "Contact Us",
+        "menu_order": 0,
+        "meta": {
+            "title": "Contact Us | Harbourview Care Services",
+            "description": "Contact our team.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">Get in touch</h2><p class=\"common_paragraph\">Call, email or drop us a message — we respond to every enquiry.</p></div></div></div><div class=\"inner_section py-4 py-sm-5 sec_bg_color\"><div class=\"container\"><div class=\"inner_text_sec\"><h2 class=\"inner_bg_title mb-3\">Send a message</h2><p class=\"common_paragraph\">We usually reply within one business day.</p></div></div></div><div class=\"wpcf7\"><p>form placeholder</p></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "thank-you",
+        "title": "Thank You",
+        "menu_order": 0,
+        "meta": {
+            "title": "Thank You | Harbourview Care Services",
+            "description": "Submission received.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">Thanks for reaching out</h2><p class=\"common_paragraph\">We've received your submission and will be in touch shortly.</p></div></div></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "household-tasks-support",
+        "title": "Household Tasks Support",
+        "menu_order": 0,
+        "meta": {
+            "title": "Household Tasks Support | Harbourview Care Services",
+            "description": "Help with cleaning, laundry, cooking and keeping your home comfortable.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">Household Tasks Support</h2><p class=\"common_paragraph\">Help with cleaning, laundry, cooking and keeping your home comfortable.</p><p class=\"common_paragraph\">Delivered by trained Harbourview Care Services support workers across Melbourne.</p></div></div></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "community-participation",
+        "title": "Community Participation",
+        "menu_order": 0,
+        "meta": {
+            "title": "Community Participation | Harbourview Care Services",
+            "description": "Get out and about — social groups, events, hobbies and local activities.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">Community Participation</h2><p class=\"common_paragraph\">Get out and about — social groups, events, hobbies and local activities.</p><p class=\"common_paragraph\">Delivered by trained Harbourview Care Services support workers across Melbourne.</p></div></div></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "community-nursing-care",
+        "title": "Community Nursing Care",
+        "menu_order": 0,
+        "meta": {
+            "title": "Community Nursing Care | Harbourview Care Services",
+            "description": "Registered nurses delivering clinical care in your home.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">Community Nursing Care</h2><p class=\"common_paragraph\">Registered nurses delivering clinical care in your home.</p><p class=\"common_paragraph\">Delivered by trained Harbourview Care Services support workers across Melbourne.</p></div></div></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "group-activities",
+        "title": "Group Activities",
+        "menu_order": 0,
+        "meta": {
+            "title": "Group Activities | Harbourview Care Services",
+            "description": "Small group programs for skills, fun and friendship.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">Group Activities</h2><p class=\"common_paragraph\">Small group programs for skills, fun and friendship.</p><p class=\"common_paragraph\">Delivered by trained Harbourview Care Services support workers across Melbourne.</p></div></div></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "life-skills-development",
+        "title": "Life Skills Development",
+        "menu_order": 0,
+        "meta": {
+            "title": "Life Skills Development | Harbourview Care Services",
+            "description": "Build independence: budgeting, cooking, travel and daily routines.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">Life Skills Development</h2><p class=\"common_paragraph\">Build independence: budgeting, cooking, travel and daily routines.</p><p class=\"common_paragraph\">Delivered by trained Harbourview Care Services support workers across Melbourne.</p></div></div></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "innovative-community-participation",
+        "title": "Innovative Community Participation",
+        "menu_order": 0,
+        "meta": {
+            "title": "Innovative Community Participation | Harbourview Care Services",
+            "description": "Creative, community-led ways to connect and contribute.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">Innovative Community Participation</h2><p class=\"common_paragraph\">Creative, community-led ways to connect and contribute.</p><p class=\"common_paragraph\">Delivered by trained Harbourview Care Services support workers across Melbourne.</p></div></div></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "personal-activities-support",
+        "title": "Personal Activities Support",
+        "menu_order": 0,
+        "meta": {
+            "title": "Personal Activities Support | Harbourview Care Services",
+            "description": "Respectful assistance with personal care and daily activities.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">Personal Activities Support</h2><p class=\"common_paragraph\">Respectful assistance with personal care and daily activities.</p><p class=\"common_paragraph\">Delivered by trained Harbourview Care Services support workers across Melbourne.</p></div></div></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "shared-living-support",
+        "title": "Shared Living Support",
+        "menu_order": 0,
+        "meta": {
+            "title": "Shared Living Support | Harbourview Care Services",
+            "description": "Support in shared homes — routines, chores and community life.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">Shared Living Support</h2><p class=\"common_paragraph\">Support in shared homes — routines, chores and community life.</p><p class=\"common_paragraph\">Delivered by trained Harbourview Care Services support workers across Melbourne.</p></div></div></div>"
+    },
+    {
+        "wp_id": 0,
+        "slug": "transport-assistance",
+        "title": "Transport Assistance",
+        "menu_order": 0,
+        "meta": {
+            "title": "Transport Assistance | Harbourview Care Services",
+            "description": "Safe, reliable transport to appointments, work and activities.",
+            "canonical": null
+        },
+        "html": "<div class=\"inner_section py-4 py-sm-5\"><div class=\"container\"><div class=\"inner_text_sec text-center\"><h2 class=\"inner_bg_title mb-3\">Transport Assistance</h2><p class=\"common_paragraph\">Safe, reliable transport to appointments, work and activities.</p><p class=\"common_paragraph\">Delivered by trained Harbourview Care Services support workers across Melbourne.</p></div></div></div>"
+    }
+]

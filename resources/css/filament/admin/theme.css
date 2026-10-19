@@ -1,0 +1,71 @@
+@import '../../../../vendor/filament/filament/resources/css/theme.css';
+
+@source '../../../../app/Filament/**/*';
+@source '../../../../resources/views/filament/**/*';
+
+/*
+ * Harbourview Care Services — Concept 3 palette, mirroring resources/css/app.css.
+ * The gray ramp is registered on the panel (AdminPanelProvider) so body,
+ * surfaces and text inherit cream → forest automatically.
+ */
+@theme {
+    --font-display: 'Fraunces', ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif;
+
+    --color-cream: #faf6f0;
+    --color-cream-dark: #f0e9df;
+    --color-forest: #1e3a34;
+    --color-forest-light: #2a5148;
+    --color-coral: #e2725b;
+    --color-coral-dark: #c95e48;
+    --color-sand: #e8ddcf;
+}
+
+@layer components {
+    /* Fraunces display headings */
+    .fi-header-heading,
+    .fi-simple-header-heading,
+    .fi-section-header-heading,
+    .fi-modal-heading,
+    .fi-account-widget-heading,
+    .fi-ta-header-heading {
+        @apply font-display tracking-tight text-forest;
+    }
+
+    .fi-header-subheading,
+    .fi-simple-header-subheading,
+    .fi-section-header-description {
+        @apply text-forest/60;
+    }
+
+    /* Harbourview pill buttons */
+    .fi-btn {
+        @apply rounded-full font-semibold;
+    }
+
+    .fi-btn-group {
+        @apply rounded-full;
+    }
+
+    /* Soft, rounded Harbourview cards */
+    .fi-section,
+    .fi-ta-ctn,
+    .fi-wi-stats-overview-stat {
+        @apply rounded-2xl;
+    }
+
+    /* Sidebar navigation */
+    .fi-sidebar-group-btn,
+    .fi-sidebar-item-btn {
+        @apply text-forest/80;
+    }
+
+    .fi-sidebar-group-label,
+    .fi-sidebar-item-label {
+        @apply font-medium;
+    }
+
+    /* Login card keeps the cream canvas behind a white panel */
+    .fi-simple-main {
+        @apply sm:rounded-2xl;
+    }
+}
